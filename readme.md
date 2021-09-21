@@ -1,4 +1,4 @@
-# Database: Redis
+# Database: MongoDB
 
 MongoDB database provider for `@nexrender/server`.
 
